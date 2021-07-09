@@ -16,7 +16,9 @@ class Node
 
 //Understanding we are only interested in printing 
 //In every level we can only print one node
-//
+//intially we are the 0 level
+// when we increase we first print the 0th level and we check the conditio//0==0 and hence we print the first node 
+//recursion one-
 int max_level=0;
 void printleft(Node* root, int level)
 {
@@ -24,7 +26,7 @@ void printleft(Node* root, int level)
 	{
 		return;
 	}
-	if(level>=max_level)
+	if(level==max_level)
 	{
 		cout<<root->data<<endl;
 		max_level++;
