@@ -8,6 +8,5 @@ Leetcode and interview bit.
 Just relax
 Sap failed. But Thanks lot to learn
 
-Goa
 
 
