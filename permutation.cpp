@@ -28,5 +28,6 @@ public:
             rec(nums,i+1,temp);
             temp.pop_back();
         }
+        
     }
 };
