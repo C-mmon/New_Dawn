@@ -8,7 +8,7 @@ Leetcode and interview bit.
 Just relax
 Sap failed. But Thanks lot to mfklearn
 
-People strong
+People strongdbd
 Kdkdjd
 
 
