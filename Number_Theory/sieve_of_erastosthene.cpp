@@ -22,6 +22,7 @@ int main()
 		if(prime[p]==0)
 		{
 			cout<<p<<" ";
+			cout<<"";
 		}
 	}
 }
