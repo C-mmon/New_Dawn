@@ -23,3 +23,6 @@ int main()
   cout<<firstrepeating(str)<<endl;
   return 0;
 }
+const PI;
+console.log(PI); // Ouput: SyntaxError: Missing initializer in const declaration
+PI=3.142;
